@@ -35,7 +35,7 @@
   }
 
   &__item {
-    margin-bottom: 10px;
+    margin-bottom: 25px;
   }
 
   &__link {
@@ -48,14 +48,5 @@
     letter-spacing: 2px;
     text-transform: uppercase;
 
-    &::after {
-      display: block;
-      margin-top: 5px;
-      content: "";
-      width: 53px;
-      height: 1px;
-      background-color: $greenCol;
-      transition: width $duration;
-    }
   }
 }
