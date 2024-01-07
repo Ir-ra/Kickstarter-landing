@@ -1,4 +1,4 @@
-# Landing page of Kickaster.
+# Landing page of Kickstarter.
 Implemented responsive template for Desktop, Tablet and Mobile.
 
 ## DEMO
