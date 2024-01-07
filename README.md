@@ -1,5 +1,5 @@
 # Landing page of Kickstarter.
-Implemented responsive template for Desktop, Tablet and Mobile.
+Implemented landing page for Futuristic Wireless Speaker, incorporating a responsive design that seamlessly adapts to Desktop, Tablet, and Mobile devices.
 
 ## DEMO
 [DEMO LINK](https://ir-ra.github.io/Kickstarter-landing/)
