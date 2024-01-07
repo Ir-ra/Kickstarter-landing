@@ -1,4 +1,4 @@
-# Landing page of Bakery.
+# Landing page of Kickaster.
 Implemented responsive template for Desktop, Tablet and Mobile.
 
 ## DEMO
